@@ -7,6 +7,7 @@
 # server process.
 
 # Basic Site Settings
+encoding                 : "utf-8"
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Zhongheng Liu"
